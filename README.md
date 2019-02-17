@@ -1,2 +1,2 @@
 # billboard-shader-for-Unity
-A billboard shader for Unity when the objects position come from a buffer
+Hi ! I'm new with shader but i made a this because i hope it will help other beginners shader creator :)
