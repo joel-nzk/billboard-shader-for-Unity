@@ -1,5 +1,4 @@
 ﻿
-//Modification made by Zenden1
 
   Shader "Instanced1/InstancedShader" {
     Properties {
